@@ -13,9 +13,9 @@
 
 #### If you want to iterate on me...
 ``` javascript
-for(const key in obj){
-  if(obj.hasOwnProperty(key)){
-     console.log(obj[key]);
+for(const prop in cristian){
+  if(cristian.hasOwnProperty(prop)){
+     console.log(cristian[prop]);
   }
 }
 ```
