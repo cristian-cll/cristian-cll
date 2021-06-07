@@ -1,3 +1,5 @@
+# Hello! <img src="https://media.tenor.com/images/f8f038de69370be3c9888783425c0299/tenor.gif" width="40"/>
+### I'm currently studying web development.
 ``` javascript
 {
     name: "Cristian",
@@ -8,8 +10,6 @@
     tools: ["vscode", "workbench", "phpmyadmin", "git"] 
 }
 ```
-# Hello! <img src="https://media.tenor.com/images/f8f038de69370be3c9888783425c0299/tenor.gif" width="40"/>
-### I'm currently studying web development.
 
 #### If you want to iterate on me...
 ``` javascript
